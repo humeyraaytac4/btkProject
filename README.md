@@ -1,1 +1,1 @@
-# btkProject
+# term6-AIProject
